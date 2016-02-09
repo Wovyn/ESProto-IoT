@@ -3,8 +3,8 @@ The ESProto IoT is a ESP-8266 prototyping PCB made for the AI Thinker ESP-12F mo
 
 ## Design Images
 
-![Front][Docs/images/front.png]
+![Front](Docs/images/front.png)
 
-![Back][Docs/images/back.png]
+![Back](Docs/images/back.png)
 
-![Footprint][Docs/images/footprint.png]
+![Footprint](Docs/images/footprint.png)
