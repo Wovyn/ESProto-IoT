@@ -1,0 +1,3 @@
+[submodule "Hardware/libraries/Arduino"]
+	path = Hardware/libraries/Arduino
+	url = git@github.com:0xANDREW/kicad-libs.git

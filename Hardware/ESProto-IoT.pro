@@ -29,7 +29,7 @@ version=1
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=ESProtoG-rescue
+LibName1=./libraries/ESProto-IoT
 LibName2=power
 LibName3=device
 LibName4=transistors
@@ -59,5 +59,5 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=/Users/duane/kicad/libraries/Arduino/arduino
-LibName32=/Users/duane/kicad/libraries/Arduino_Shield/arduino_shieldsNCL
+LibName31=./libraries/Arduino/arduino
+LibName32=./libraries/Arduino_Shield/arduino_shieldsNCL
