@@ -1,0 +1,6 @@
+.DS_Store
+*-cache.lib
+*.bak
+*-bak
+_saved_*
+Gerber/
