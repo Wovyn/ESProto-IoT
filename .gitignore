@@ -3,4 +3,5 @@
 *.bak
 *-bak
 _saved_*
+_autosave*
 Gerber/
